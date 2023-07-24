@@ -1,5 +1,8 @@
 # Excel-Challenge
 In this challenge, small startup businesses and crowdfunding platforms like Kickstarter and Indiegogo have been growing in success and popularity since the late 2000s. 
 We analyzed various different metrics across these businesses such as the percent funded, country of operations, currency, and the business category and subcategory.
-Using Excel pivot tables, excel formulas, and excel formatting our job was to measure these columns of data and to uncover any hidden trends that may or may not have
-led to their success/failures. 
+Using excel pivot tables, excel formulas, and conditional formatting our job was to measure these columns of data and uncover any hidden trends that may or may not have led to their success/failures. 
+The bulk of our analysis came from the end where we gathered all of the data and created two forms of analysis. The first was our Crowdfunding Goal Analysis, which consisted of 8 columns measuring the outcomes of the crowdfunding startups. Second, was the Statistical Analysis portion which allowed us to summarize our findings and come to a broader conclusion. 
+To say the trends that are displayed through our charts/graphs uncover any groundbreaking concrete findings is a bit of an overstatement as the trends remain inconsistent and the data itself is limited to external factors not present in this dataset. However, being able to see the outcomes of each project that these 
+startups began was very telling in many other ways such as how funding may not entirely affect business efficiency or maybe how industry popularity can also have a role in business/ project performance.
+This challenge as an introduction to data analytics that was not necessarily conclusive but it was fun and exciting to see how data can be used in many versatile ways. 
