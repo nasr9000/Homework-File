@@ -1,4 +1,7 @@
 # Excel-Challenge
+![image](https://github.com/nasr9000/Homework-File/assets/128746625/830e20e4-0bf0-443e-bcef-3a0d85a311cc)
+
+
 About
 
 In this challenge, small startup businesses and crowdfunding platforms like Kickstarter and Indiegogo have been growing in success and popularity since the late 2000s. 
